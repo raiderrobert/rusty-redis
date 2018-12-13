@@ -1,0 +1,6 @@
+[package]
+name = "key_value"
+version = "0.1.0"
+authors = ["Robert Roskam <raiderrobert@gmail.com>"]
+
+[dependencies]
